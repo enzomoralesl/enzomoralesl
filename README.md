@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @enzomoralesl
 - 👀 I’m interested in development
-- 🌱 I’m currently learning about angular
+- 🌱 I’m currently learning about Spring
 <!---- 💞️ I’m looking to collaborate on many things--->
 
-- 📫 How to reach me: enzo_moralesl@yahoo.com.br
+- 📫 How to reach me: dev.enzomoralesl@gmail.com
 
 <!---
 enzomoralesl/enzomoralesl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
