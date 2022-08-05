@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @enzomoralesl
-- 👀 I’m interested in development
+- 👀 I’m interested in back-end development
 - 🌱 I’m currently learning about Spring
 <!---- 💞️ I’m looking to collaborate on many things--->
 
