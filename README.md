@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @enzomoralesl
-- 👀 I’m interested in back-end development
-- 🌱 I’m currently learning about Spring
-<!---- 💞️ I’m looking to collaborate on many things--->
+- 👋 Hi, I’m @enzomoralesl (Enzo Morales), a 24 years old guy who wants to better at coding, learning the best and most interesting ways!
+- 👀 I’m really focused and working with Java/Spring Back-end development
+- 👀 I’m interested in Angular and Node.js
+- 🌱 I’m currently learning about AWS
 
 - 📫 How to reach me: dev.enzomoralesl@gmail.com
 
